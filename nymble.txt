@@ -1,0 +1,1 @@
+Anonymizing networks such as Tor allow users to access Internet services privately by using a series of routers to hide the client’s IP address from the server. The success of such networks, however, has been limited by users employing this anonymity for abusive purposes such as defacing popular websites. 
